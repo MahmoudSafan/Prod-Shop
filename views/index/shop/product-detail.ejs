@@ -1,0 +1,26 @@
+<%- include('../ejsShared/head.ejs') %>
+    </head>
+
+    <body>
+        <%- include('../ejsShared/navbar.ejs') %>
+            <main class="centered">
+                <h1>
+                    <%= product.title %>
+                </h1>
+                <br>
+                <div>
+                    <img src="<%= product.imageUrl %>" alt="<%= product.title %>">
+                </div>
+                <h2>
+                    Price:
+                    <%= product.price %>
+                </h2>
+                <p>
+                    Description:
+                    <%= product.description %>
+                </p>
+                <%- include('../ejsShared/addToCart.ejs') %>
+
+            </main>
+
+            <%- include('../ejsShared/end.ejs') %>
