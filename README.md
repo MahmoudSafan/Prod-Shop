@@ -5,6 +5,7 @@ Prod Store helps you in your online marketing to show your products in self onli
 1. Clone repo.
 2. Open terminal on directory then run 'npm install' to install all dependencies. 
 3. Replace 'mongodb+srv://username:password@cluster0.pzhpb.mongodb.net/nodeShop?retryWrites=true&w=majority' username:password to your Cloud Database credentials.
+4. run 'npm start' to run the project on the local server port 3000
 
 # All Features on the project
 1. Sign-in / up.
