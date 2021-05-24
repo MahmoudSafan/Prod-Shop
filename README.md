@@ -17,7 +17,7 @@ Prod Store helps you in your online marketing to show your products in self onli
 8. Checkout orders.
 9. Contacts page.
 
-# Up comming soon 
+# Upcomming soon 
 1. Adding payments.
 2. Complete REST API & GraphQL
 3. Update front-end
