@@ -1,4 +1,4 @@
-# Prod-Shop
+# PROD SHOP
 Prod Store helps you in your online marketing to show your products in self online store
 
 # Install and Setup
